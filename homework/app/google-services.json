@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721684107570",
+    "project_id": "tikitaka-ef37a",
+    "storage_bucket": "tikitaka-ef37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721684107570:android:5e321e0462ddc41765472b",
+        "android_client_info": {
+          "package_name": "com.example.homework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721684107570-u25hmopqhfsf8lvc37b586ef0ksu063q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5yg4UqZ0j8V-RC6Y4MrUbEQUpXxXZLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721684107570-u25hmopqhfsf8lvc37b586ef0ksu063q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

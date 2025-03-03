@@ -1,0 +1,1 @@
+•	Jointly with my partner named Qasim Sindiani , Building an Android application to help provide aid to poor people, the application discovers these people, communicates with them , and provides assistance to them, used android programming on the code side  ,Tools: Android Studio
